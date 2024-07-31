@@ -6,7 +6,7 @@ To develop an e-commerce website for a new online marketplace name "Agate Interi
 2. Continous integration and development workflow 
 -  Developing New features and fixes 
 - Version Control with Git 
-- Pull Requests and Merging to ain branch 
+- Pull Requests and Merging to the main branch 
 - Deploying Updates to the Production Server 
 - Testing the new changes 
 
@@ -182,7 +182,7 @@ sudo cp -r ~Agate_interior/* /var/www/html/
 ![28_aws](https://github.com/user-attachments/assets/d812c2bd-9b98-40f8-bab5-df2656cef989)
 
  ## Step 7: 
-### Sccess Website from browser 
+### Success Website from browser 
 
 - Open a web browser and access the public IP of your EC2 instance to view the deployed website 
 
