@@ -1,1 +1,1 @@
-# E-Commerce-Platform-Deployiment-with-Git-Linux-and-AWS
+# E-Commerce-Platform-Deployment-with-Git-Linux-and-AWS
